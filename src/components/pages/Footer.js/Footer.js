@@ -76,7 +76,7 @@ function Footer() {
               Damsonsoft
             </Link>
           </div>
-          <small className="website-rights">{""}© Copyright 2020</small>
+          <small className="website-rights">{""}© Copyright 2021</small>
           <div className="social-icons">
             <Link
               className="social-icon-link"
